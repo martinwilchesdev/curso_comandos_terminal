@@ -48,3 +48,16 @@ rm -r ./data/data_temp
 ########################
 ## MODIFICAR ARCHIVOS ##
 ########################
+
+# modificar el contenido de un archivo
+nano data.txt
+
+# visualizar el contenido de un archivo
+cat data.txt
+
+##################
+## SUPERUSUARIO ##
+##################
+
+# configurar contraseña superusuario
+sudo passwd
